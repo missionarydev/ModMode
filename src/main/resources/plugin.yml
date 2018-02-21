@@ -1,0 +1,5 @@
+name: ModMode
+author: Missionary
+main: me.missionary.modmode.ModMode
+version: ${git.commit.id.abbrev}
+description: Bukkit plugin used to allow for easier moderation of the server.

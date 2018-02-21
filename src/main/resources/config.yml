@@ -1,0 +1,9 @@
+teamspeakServerIP: ts.yourserver.com
+jedis-address: 127.0.0.1
+jedis-isAuth: false
+jedis-password: pwd
+jedis-port: 6379
+staffJoinMessage: "&9[Staff] &b%player% has joined %server%."
+report: "&c[Report] &c%reporter% &ewas reported for &c%reason% &eby &c%reported% &eon &c%SERVER_NAME%&e."
+request: "&9[Request] &a%sender% &ehas requested assistance for &3%message% &eon&c %server%&e."
+staffChat: "&7(&e&l%server%&7) &a%sender%&7: &e%message%"
